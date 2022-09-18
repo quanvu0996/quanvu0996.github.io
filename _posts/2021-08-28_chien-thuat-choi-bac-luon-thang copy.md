@@ -7,4 +7,5 @@ tags:
   - gambling
   - game theory
 ---
+
 SMR
