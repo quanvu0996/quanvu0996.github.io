@@ -13,5 +13,3 @@ With the booming of e-commerce platforms, text classification models play an inc
 N. T. N. Linh, V. H. Quan, L. H. Ngan, T. D. Phu and H. -Q. Le, "An incremental ensemble learning system for Vietnamese e-commerce product classification," <i> 2021 13th International Conference on Knowledge and Systems Engineering (KSE) </i>, 2021, pp. 1-4, doi: 10.1109/KSE53942.2021.9648642.
 
 DOI: [10.1109/kse53942.2021.9648642](https://doi.org/10.1109/kse53942.2021.9648642)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).

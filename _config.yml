@@ -83,9 +83,9 @@ author:
   name             : "Vu Hong Quan"
   avatar           : "quanvh_avata.png"
   bio              : "Data scientist"
-  location         : "Hanoi, Vietna"
+  location         : "Hanoi, Vietnam"
   employer         : "Earable.,INC"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=OUEAAmsAAAAJ&hl=en"
   email            : "vuhongquan0996@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/vuhongquan/"
+  linkedin         : "vuhongquan"
   orcid            : "https://orcid.org/0000-0003-3000-3563"
   pinterest        :
   soundcloud       :
