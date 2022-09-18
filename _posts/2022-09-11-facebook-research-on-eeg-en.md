@@ -1,5 +1,5 @@
 ---
-title: "[En] Facebook's research on decoding speech from EEG (English below)"
+title: "[En] Facebook's research on decoding speech from EEG"
 date: 2022-09-11
 permalink: /:title
 tags:
