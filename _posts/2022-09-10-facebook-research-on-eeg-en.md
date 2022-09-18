@@ -1,7 +1,7 @@
 ---
 title: '[En] Facebook's research on decoding speech from EEG (English below)'
 date: 2022-09-10
-permalink: /posts/en/2022/09/db_research_on_decoding_speech_from_eeg/
+permalink: /posts/en/2022/09/db_research_on_decoding_speech_from_eeg2/
 tags:
   - EEG
   - Neuroscience
