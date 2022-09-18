@@ -29,11 +29,11 @@ Giả sử bạn đặt mục tiêu chiến thắng $e=100$ đồng.
 * Trong ngày đầu bạn phải cược ít nhất $M = e/69 = 1.45$ đồng. Nếu trúng, bạn sẽ đạt được mục tiêu và trò chơi kết thúc, nếu trượt, bạn lỗ lũy kế $L = e/69 = 1.45đ$. <br>
 * Trong ngày thứ 2, bạn phải cược $M = L/69 + e/69 = e(69^{-1} +69^{-2})$ để nếu trúng, sau khi bù phần lỗ lũy kế bạn vẫn đạt được mục tiêu chiến thắng e đồng <br>
 …
-* Trong ngày thứ $n$, bạn phải cược $M$ và giá trị lỗ lũy kế $L$ (sau khi trượt) lần lượt là:
+* Trong ngày thứ $n$, bạn phải cược $M$ và giá trị lỗ lũy kế $L$ (sau khi trượt) lần lượt là: <br>
 $$ M = \frac{L}{69} +\frac{e}{69} = \sum_{i=0}^{n-1} C_i^{n-1}69^{-i}e$$
 $$L = \sum_i^n C_i^n 69^{-i}e$$
 
-Đồ thị của hàm lỗ lũy kế sau $n$ ngày liên tiếp trượt là:
+Đồ thị của hàm lỗ lũy kế sau $n$ ngày liên tiếp trượt là: <br>
 ![Cumulative loss](/images/post/bio-photo-2.png)
 
 2. Ta sẽ ước lượng thời gian để bạn trúng số.
@@ -44,10 +44,10 @@ $$L = \sum_i^n C_i^n 69^{-i}e$$
 => Ta nói hàm phân phối xác suất của biến cố trúng tại ngày thứ n (trong điều kiện những ngày trước trượt) là:
 $P(X=n) = p(1-p)^{n-1}$
 
-Hàm phân phối tích lũy $F$ tại ngày thứ $n$ xác định bởi:
+Hàm phân phối tích lũy $F$ tại ngày thứ $n$ xác định bởi: <br>
 $$F(n) = \sum P(X \leq n) = \sum_{i=1}^nP(X=i) = 1 - (1-p)^n$$
 
-Đồ thị có dạng:
+Đồ thị có dạng: <br>
 ![CDF and PDF](/images/post/gmbl_cdf.png)
 
 <!-- <img src="/_posts/img/gmbl_cdf.png" width="200" height="200" /> -->

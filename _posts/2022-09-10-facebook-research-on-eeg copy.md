@@ -4,7 +4,7 @@ date: 2022-09-10
 permalink: /posts/en/2022/09/db_research_on_decoding_speech_from_eeg/
 tags:
   - EEG
-  - Neural science
+  - Neuroscience
   - Speech decoding
   - English
 ---

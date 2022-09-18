@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Vu Hong Quan's Blog <br>
-Topics: machine learning, data science, data applications, recommendation system, signal processing, neural science.
+Topics: machine learning, data science, data applications, recommendation system, signal processing, neuroscience.
 
 ## RECENT POSTS
 
