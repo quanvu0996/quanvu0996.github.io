@@ -33,7 +33,7 @@ $$ M = \frac{L}{69} +\frac{e}{69} = \sum_{i=0}^{n-1} C_i^{n-1}69^{-i}e$$
 $$L = \sum_i^n C_i^n 69^{-i}e$$
 
 Đồ thị của hàm lỗ lũy kế sau $n$ ngày liên tiếp trượt là:
-![Cumulative loss](/_posts/img/bio-photo-2.png)
+![Cumulative loss](/images/post/bio-photo-2.png)
 
 2. Ta sẽ ước lượng thời gian để bạn trúng số.
 * Trong ngày 1, xác suất để bạn trúng là $p= 0.01$, xác suất đề bạn trượt là $1-p = 0.99$. Nếu trúng, trò chơi kết thúc, vì vậy ta xét tiếp trường hợp bạn trượt.
@@ -47,7 +47,7 @@ Hàm phân phối tích lũy $F$ tại ngày thứ $n$ xác định bởi:
 $$F(n) = \sum P(X \leq n) = \sum_{i=1}^nP(X=i) = 1 - (1-p)^n$$
 
 Đồ thị có dạng:
-![CDF and PDF](/_posts/img/gmbl_cdf.png)
+![CDF and PDF](/images/post/gmbl_cdf.png)
 
 <!-- <img src="/_posts/img/gmbl_cdf.png" width="200" height="200" /> -->
 
