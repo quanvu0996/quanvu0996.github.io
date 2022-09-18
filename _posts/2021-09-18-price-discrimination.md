@@ -65,10 +65,10 @@ Ta kỳ vọng phân biệt giá tới từng người dùng và gia tăng tỷ 
 
 *Phân biệt giá đến từng mức sản lượng* <br>
 Không phải lúc nào người dùng quyết định “mua” là đã làm hài lòng nhà kinh doanh. Như ví dụ bán xà bông phía trên, ta không chỉ muốn người dùng mua, mà còn muốn người dùng mua nhiều cục xà bông. <br>
-$\Rightarrow$ Ta kỳ vọng phân biệt giá tới từng mức sản lượng, để người dùng không chỉ quyết định mua mà còn mua nhiều hơn. Nhiệm vụ của mô hình là xác định được đường cầu cá nhân của từng người dùng, giả thiết đơn giản là: $ Q = a*P +b $. Trong đó a đại diện cho mức độ nhạy cảm với giá của người dùng, ta kỳ vọng các dữ liệu về người dùng $X$ có thể giải thích được $a$, hay $a = f(X)$ và mô hình dự đoán sẽ có dạng: $ Q = f(X)*P +b $ <br>
+$\Rightarrow$ Ta kỳ vọng phân biệt giá tới từng mức sản lượng, để người dùng không chỉ quyết định mua mà còn mua nhiều hơn. Nhiệm vụ của mô hình là xác định được đường cầu cá nhân của từng người dùng, giả thiết đơn giản là: $Q = aP +b$. Trong đó a đại diện cho mức độ nhạy cảm với giá của người dùng, ta kỳ vọng các dữ liệu về người dùng X có thể giải thích được $a$, hay $a = f(X)$ và mô hình dự đoán sẽ có dạng: $ Q = f(X).P +b $ <br>
 
 Hoặc ta cũng có thể sử dụng một mô hình đề xuất sau:
-* B1. Ước lượng hệ số nhạy cảm với giá của người dùng đã quan sát $a = dQ/dP$, và $b = mean( Q - a*P)$
+* B1. Ước lượng hệ số nhạy cảm với giá của người dùng đã quan sát $a = dQ/dP$, và $b = mean( Q - aP)$
 * B2. Xây dựng model dự đoán tham số đường cầu cá nhân cho tất cả người dùng $[ a,b ] = f(X)$ . Việc này có thể thực hiện đơn giản bằng một mạng Nơ-ron nhân tạo 2 notes đầu ra.
 Các mô hình có thể đa dạng, tuy nhiên đầu ra ta sẽ xác định được ở mỗi mức sản lượng, thì người dùng sẽ chấp nhận trả mức giá cao nhất là bao nhiêu. <br>
 
