@@ -17,7 +17,7 @@ Lời nói là một hoạt động phức tạp của trí thông minh, vì v�
 Nghiên cứu của Facebook đạt được bước tiến đáng kể giải mã lời nói từ tín hiệu non-invasive EEG. Kiến trúc mạng sử dụng wav2vec 2.0, contrastive training với hàm loss CLIP và đáng chú ý là bộ các layer CNN xếp chồng lên các Subject layers. Subject layer được mô tả là thực hiện tham số hóa các hàm trên mỗi điện cực trên không gian Fourier.
 Hy vọng source code của bài báo này sẽ sớm được công bố.
 
-Link: https://lnkd.in/gBhVHBKj
+Link: [https://lnkd.in/gBhVHBKj](https://lnkd.in/gBhVHBKj)
 
 
 At the end of August, Facebook/Meta's AI team published a preprint of their research on brain electrical signals (electroencephalogram-EEG).
@@ -25,4 +25,4 @@ Speech is a complex activity of intelligence, so studies of how speech is proces
 Facebook's research takes a significant step forward in decoding speech from non-invasive EEG signals. The network architecture uses wav2vec 2.0, contrastive training with the CLIP loss function, and notably a set of CNN layers superimposed on Subject layers. The subject layer is described as performing per-electrode parameterization on Fourier space.
 Hopefully the source code of this article will be published soon.
 
-Link: https://lnkd.in/gBhVHBKj
+Link: [https://lnkd.in/gBhVHBKj](https://lnkd.in/gBhVHBKj)
