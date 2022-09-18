@@ -9,6 +9,7 @@ tags:
   - Vietnamese
 ---
 
+![Poster](/images/post/dl_and_eeg.jpeg){: width="800" }<br>
 Deep learning (DL), ngành khoa học dựa trên ý tưởng cách hoạt động của bộ não. 
 Kể từ khi Hinton tuyên bố mình hiểu cách não bộ hoạt động, cùng với sự ra đời của deep learning, các ngành khoa học liên quan đã thay đổi cách tiếp cận của mình rất đáng kể. Năm 2012, mạng AlexNet, phát triển bởi các học trò của Hinton, đạt kết quả SOTA trong xử lý ảnh. Kể từ đó các phương pháp trích xuất đặc trưng ảnh truyền thống dần chìm vào quên lãng. Ngày nay khi nói đến xử lý ảnh, người ta nghĩ ngay đến mạng deep learning kích thước lớn với các lớp CNN xếp chồng. 
 
