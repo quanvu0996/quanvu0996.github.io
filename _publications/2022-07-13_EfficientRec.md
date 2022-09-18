@@ -1,0 +1,13 @@
+---
+title: "EfficientRec: An unlimited user-item scale recommendation system based on clustering and user’s interaction embedding profile"
+collection: publications
+permalink: /publication/2022-07-13_EfficientRec
+excerpt: Recommendation systems are highly interested in technology companies nowadays. The businesses are constantly growing users and products, causing the number of users and items to continuously increase over time, to very large numbers. Traditional recommendation algorithms with complexity dependent on the number of users and items make them difficult to adapt to the industrial environment. In this paper, we introduce a new method applying graph neural networks with a contrastive learning framework in extracting user preferences. We incorporate a soft clustering architecture that significantly reduces the computational cost of the inference process. Experiments show that the model is able to learn user preferences with low computational cost in both training and prediction phases. At the same time, the model gives a very good accuracy. We call this architecture EfficientRec with the implication of model compactness and the ability to scale to unlimited users and products.
+date: 2022-07-13
+venue: preprint
+paperurl: preprint
+citation: 'Hong Quan Vu, Hoang Ngan Le, Minh Duc Le, Ngoc Linh Nguyen Tran and Hoang Quynh Le, "EfficientRec: An unlimited user-item scale recommendation system based on clustering and user’s interaction embedding profile", preprint'
+---
+Recommendation systems are highly interested in technology companies nowadays. The businesses are constantly growing users and products, causing the number of users and items to continuously increase over time, to very large numbers. Traditional recommendation algorithms with complexity dependent on the number of users and items make them difficult to adapt to the industrial environment. In this paper, we introduce a new method applying graph neural networks with a contrastive learning framework in extracting user preferences. We incorporate a soft clustering architecture that significantly reduces the computational cost of the inference process. Experiments show that the model is able to learn user preferences with low computational cost in both training and prediction phases. At the same time, the model gives a very good accuracy. We call this architecture EfficientRec with the implication of model compactness and the ability to scale to unlimited users and products.
+
+Hong Quan Vu, Hoang Ngan Le, Minh Duc Le, Ngoc Linh Nguyen Tran and Hoang Quynh Le, "EfficientRec: An unlimited user-item scale recommendation system based on clustering and user’s interaction embedding profile", preprint
