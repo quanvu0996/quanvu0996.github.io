@@ -6,6 +6,7 @@ tags:
   - EEG
   - Neuroscience
   - Speech decoding
+  - English
 ---
 
 ![Facebook research on EEG and speed](/images/post/2022_fb_research_eeg.jpeg){: width="500" }<br>
