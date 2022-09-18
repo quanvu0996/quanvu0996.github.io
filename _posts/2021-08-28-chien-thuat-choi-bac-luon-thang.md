@@ -7,7 +7,7 @@ tags:
   - gambling
   - game theory
 ---
-![Poster](/images/post/2021_poster_gbml.png){: width=50% }<br>
+![Poster](/images/post/2021_poster_gbml.png){: width="50%" }<br>
 Các trò chơi cá cược từ lâu cuốn hút một lượng lớn người chơi tham gia, nhưng thường kết thúc không có hậu cho con bạc. Xác suất là bộ môn toán học nghiên cứu quy luật, hình mẫu cho các hiện tượng ngẫu nhiên. Liệu có thể dùng xác suất để đòi lại công bằng cho các con bạc hay không?  Bài viết này thảo luận một chiến thuật với trò chơi đề.
 
 Chơi đề là một trò chơi đơn giản. Hai số cuối của giải xổ số tạo thành $100$ cặp số từ $00-99$ xuất hiện ngẫu nhiên hằng ngày. Người chơi đặt cược $1$ số, nếu trúng số đó sẽ nhận được $70$ lần tiền cược, nếu thua sẽ mất tiền cược.
