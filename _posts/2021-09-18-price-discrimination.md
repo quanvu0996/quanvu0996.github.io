@@ -39,10 +39,10 @@ Nếu như ta biết rằng mỗi người dùng sẽ chấp nhận một mức 
 
 *Phân biệt giá hoàn hảo*<br>
 Ở phân biệt giá hoàn hảo, ta sẽ bán cho từng người dùng ở đúng mức giá tối đa mà người dùng chấp nhận chi trả cho mỗi sản phẩm, và từ đó doanh thu thu được sẽ là tối đa. <br>
-Ví dụ, ta bán xà bông cho 2 người A và B. A sẽ mua 1 cục xà bông nếu giá cục đó dưới \$10, sẽ mua cục thứ 2 nếu cục đó dưới \$5 và không có nhu cầu mua cục thứ 3; B sẽ mua 1 cục xà bông nế giá cục đó dưới \$5 và không có nhu cầu mua cục thứ 2.
-* Nếu ta không áp dụng phân biệt giá, bán với giá công khai 8 → A sẽ mua 1 cục, B không chấp nhận mua → doanh thu = 8 (diện tích $S_0$).
-* Nếu ta áp dụng phân biệt giá cấp 1, bán cho A với giá 10, B với giá 5 → A sẽ mua 1 cục, B sẽ mua 1 cục → doanh thu 15 (diện tích $S_0+ S_1+ S_2$).
-* Nếu ta áp dụng phân biệt giá cấp 1, bán cho A với giá \$10, khuyến mãi nếu mua cục thứ 2 với giá \$5, bán cho B với giá \$5 → A mua 2 cục, 1 cục \$10 và 1 cục \$5, B mua 1 cục \$5 → tổng doanh thu tối ưu là 20\$ (diện tích $S_0 + S_1+ S_2+ S_3$).
+Ví dụ, ta bán xà bông cho 2 người A và B. A sẽ mua 1 cục xà bông nếu giá cục đó dưới $\pounds$ 10, sẽ mua cục thứ 2 nếu cục đó dưới $\pounds$ 5 và không có nhu cầu mua cục thứ 3; B sẽ mua 1 cục xà bông nế giá cục đó dưới $\pounds$ 5 và không có nhu cầu mua cục thứ 2.
+* Nếu ta không áp dụng phân biệt giá, bán với giá công khai $\pounds$ 8 → A sẽ mua 1 cục, B không chấp nhận mua → doanh thu = $\pounds$ 8 (diện tích $S_0$).
+* Nếu ta áp dụng phân biệt giá cấp 1, bán cho A với giá $\pounds$ 10, B với giá $\pounds$ 5 → A sẽ mua 1 cục, B sẽ mua 1 cục → doanh thu $\pounds$ 15 (diện tích $S_0+ S_1+ S_2$).
+* Nếu ta áp dụng phân biệt giá cấp 1, bán cho A với giá $\pounds$ 10, khuyến mãi nếu mua cục thứ 2 với giá $\pounds$ 5, bán cho B với giá $\pounds$ 5 → A mua 2 cục, 1 cục $\pounds$ 10 và 1 cục $\pounds$ 5, B mua 1 cục $\pounds$ 5 → tổng doanh thu tối ưu là $\pounds$ 20 (diện tích $S_0 + S_1+ S_2+ S_3$).
 
 ![](/images/post/surplus.png){: width="70%" }<br>
 
@@ -89,7 +89,7 @@ Thường các hãng không công bố lợi ích của chính sách phân biệ
 -----
 
 *Thặng dư tiêu dùng*<br>
-Giả sử bạn kỳ vọng một sản phẩm có giá \$10, tuy nhiên khi mua, bạn phát hiện giá sản phẩm chỉ có \$5 => phần chênh lệch $10-5 = 5$ được gọi là thặng dư tiêu dùng. Khi các hãng phân biệt giá và áp dụng mức giá cho người dùng tại ngưỡng chấp nhận chi trả, thì thặng dư tiêu dùng =0. Điều này được cho là làm thiệt hại cho người tiêu dùng.
+Giả sử bạn kỳ vọng một sản phẩm có giá $\pounds$ 10, tuy nhiên khi mua, bạn phát hiện giá sản phẩm chỉ có $\pounds$ 5 => phần chênh lệch $10-5 = 5$ được gọi là thặng dư tiêu dùng. Khi các hãng phân biệt giá và áp dụng mức giá cho người dùng tại ngưỡng chấp nhận chi trả, thì thặng dư tiêu dùng =0. Điều này được cho là làm thiệt hại cho người tiêu dùng.
 
 *Vấn đề pháp lý* <br>
 Nhằm hạn chế ảnh hưởng của các chính sách phân biệt giá đến người tiêu dùng, EU và Mỹ đều có những điều khoản hạn chế các chính sách phân biệt giá của các hãng (xem thêm [3], [5] ).
