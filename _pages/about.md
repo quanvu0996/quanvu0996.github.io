@@ -13,6 +13,6 @@ Topics: machine learning, data science, data applications, recommendation system
 
 ## RECENT POSTS
 
-{% for post in site.posts %}
+{% for post in site.posts limit:10 %}
   {% include archive-single.html %}
 {% endfor %}
