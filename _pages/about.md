@@ -18,7 +18,7 @@ Topics: machine learning, data science, data applications, recommendation system
 {% for post in site.posts %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% if year != written_year %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+    <!-- <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2> -->
     {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %}
   {% include archive-single.html %}
