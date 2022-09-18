@@ -11,7 +11,9 @@ redirect_from:
 Vu Hong Quan's Blog <br>
 Topics: machine learning, data science, data applications, recommendation system, signal processing, neural science.
 
-{% include base_path %}
+## RECENT POSTS
+
+<!-- {% include base_path %} -->
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
