@@ -1,6 +1,6 @@
 ---
 title: 'Chiến thuật chơi bạc luôn thắng?'
-date: 2031-08-28
+date: 2021-08-28
 permalink: /posts/2021/08/chien-thuat-choi-bac-luon-thang/
 tags:
   - probability
