@@ -8,8 +8,8 @@ tags:
   - Speech decoding
 ---
 
-<!-- ![Facebook research on EEG and speed](/images/post/2022_fb_research_eeg.jpeg) -->
-<img src="/images/post/2022_fb_research_eeg.jpeg"  width=50% height=50%>
+![Facebook research on EEG and speed](/images/post/2022_fb_research_eeg.jpeg){: width="500" }
+<!-- <img src="/images/post/2022_fb_research_eeg.jpeg"  width=50% height=50%> -->
 Facebook's research on decoding speech from EEG (English below)
 
 
