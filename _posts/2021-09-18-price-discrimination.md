@@ -8,7 +8,7 @@ tags:
   - Vietnamese
 ---
 
-![Poster](/images/post/price_discrimination.jpeg){: width="40%" }<br>
+![Poster](/images/post/price_discrimination.jpeg){: width="70%" }<br>
 Dẫn nhập
 -----
 Làm sao để tối ưu doanh thu là câu hỏi muôn thuở của những nhà kinh doanh. Sự dồi dào của dữ liệu hiện nay mở ra nhiều tiềm năng cho việc khai thác và ứng dụng, nhưng thường sẽ cần kết hợp với một chiến thuật kinh doanh nào đó. Mô hình Marketing-Mix cổ điển xét đến việc tác động đến 4 nhân tố sản phẩm, giá, kênh phân phối và promotion (quảng bá và khuyến mãi). Bài này nói về ứng dụng Data analysis và chính sách phân biệt giá hoàn hảo ( perfect price discrimination - PPD ) - một chiến thuật tối ưu doanh thu kinh điển cho hãng độc quyền, nhắm vào nhân tố giá.
@@ -22,7 +22,7 @@ Nội dung
 -----
 Khi đi tìm hướng tối ưu doanh thu cho các hãng (firms), người ta thấy rằng các hãng thường có đặc điểm khác nhau ở một mức độ nhất định, không có phương pháp tối ưu cho tất cả các hãng. Vì vậy, họ chia các hãng thành 4 loại tương ứng với 4 thị trường: độc quyền (monopoly), độc quyền tập đoàn (oligopoly), cạnh tranh độc quyền (monopolistic competition), cạnh tranh hoàn hảo (perfect competition). Trong đó hãng độc quyền là hãng có khả năng chi phối và thiết lập giá mà người tiêu dùng sẽ phải chấp nhận, như thị trường điện, thị trường xăng dầu. Các hãng viễn thông thường được phân loại vào nhóm độc quyền tập đoàn, tuy nhiên ở một mức độ nhất định, các hãng này cũng có khả năng thiết lập giá. <br>
 
-![](/images/post/market_concerntration.png){: width="40%" }<br>
+![](/images/post/market_concerntration.png){: width="70%" }<br>
 
 (II) Phân biệt giá là gì?
 -----
@@ -30,7 +30,7 @@ Khi đi tìm hướng tối ưu doanh thu cho các hãng (firms), người ta th
 *Ngưỡng chấp nhận chi trả - đường cầu* <br>
 Mức độ nhạy cảm của mỗi người dùng với giá cùng một sản phẩm là khác nhau tại cùng một thời điểm. Với một chiếc điện thoại Iphone X, có người sẽ cho rằng mức giá 20 triệu là quá đắt, có người lại cho rằng đây là mức giá hời. Mức giá cao nhất mà một người dùng sẵn sàng chi trả để mua sản phẩm gọi là ngưỡng chấp nhận chi trả của người dùng đó (demand price). 
 
-![](/images/post/demand_curve.png){: width="40%" }<br>
+![](/images/post/demand_curve.png){: width="70%" }<br>
 
 Số lượng sản phẩm mà người dùng chấp nhận mua tại mỗi mức giá gọi là đường cầu (demand curve). Tổng cộng các đường cầu cá nhân hình thành đường cầu thị trường. <br>
 
@@ -39,10 +39,10 @@ Nếu như ta biết rằng mỗi người dùng sẽ chấp nhận một mức 
 
 *Phân biệt giá hoàn hảo*<br>
 Ở phân biệt giá hoàn hảo, ta sẽ bán cho từng người dùng ở đúng mức giá tối đa mà người dùng chấp nhận chi trả cho mỗi sản phẩm, và từ đó doanh thu thu được sẽ là tối đa. <br>
-Ví dụ, ta bán xà bông cho 2 người A và B. A sẽ mua 1 cục xà bông nếu giá cục đó dưới 10$, sẽ mua cục thứ 2 nếu cục đó dưới 5$ và không có nhu cầu mua cục thứ 3; B sẽ mua 1 cục xà bông nế giá cục đó dưới 5$ và không có nhu cầu mua cục thứ 2.
-* Nếu ta không áp dụng phân biệt giá, bán với giá công khai 8$ → A sẽ mua 1 cục, B không chấp nhận mua → doanh thu = 8$ (diện tích $S_0$).
-* Nếu ta áp dụng phân biệt giá cấp 1, bán cho A với giá 10$, B với giá 5$ → A sẽ mua 1 cục, B sẽ mua 1 cục → doanh thu 15$ (diện tích $S_0+ S_1+ S_2$).
-* Nếu ta áp dụng phân biệt giá cấp 1, bán cho A với giá 10$, khuyến mãi nếu mua cục thứ 2 với giá 5$, bán cho B với giá 5$ → A mua 2 cục, 1 cục 10$ và 1 cục 5$, B mua 1 cục 5$ → tổng doanh thu tối ưu là 20$ (diện tích $S_0 + S_1+ S_2+ S_3$).
+Ví dụ, ta bán xà bông cho 2 người A và B. A sẽ mua 1 cục xà bông nếu giá cục đó dưới 10\$, sẽ mua cục thứ 2 nếu cục đó dưới 5\$ và không có nhu cầu mua cục thứ 3; B sẽ mua 1 cục xà bông nế giá cục đó dưới 5\$ và không có nhu cầu mua cục thứ 2.
+* Nếu ta không áp dụng phân biệt giá, bán với giá công khai 8\$ → A sẽ mua 1 cục, B không chấp nhận mua → doanh thu = 8\$ (diện tích $S_0$).
+* Nếu ta áp dụng phân biệt giá cấp 1, bán cho A với giá 10\$, B với giá 5\$ → A sẽ mua 1 cục, B sẽ mua 1 cục → doanh thu 15\$ (diện tích $S_0+ S_1+ S_2$).
+* Nếu ta áp dụng phân biệt giá cấp 1, bán cho A với giá 10\$, khuyến mãi nếu mua cục thứ 2 với giá 5\$, bán cho B với giá 5\$ → A mua 2 cục, 1 cục 10\$ và 1 cục 5\$, B mua 1 cục 5\$ → tổng doanh thu tối ưu là 20\$ (diện tích $S_0 + S_1+ S_2+ S_3$).
 
 ![](/images/post/surplus.png){: width="70%" }<br>
 
@@ -89,7 +89,7 @@ Thường các hãng không công bố lợi ích của chính sách phân biệ
 -----
 
 *Thặng dư tiêu dùng*<br>
-Giả sử bạn kỳ vọng một sản phẩm có giá 10$, tuy nhiên khi mua, bạn phát hiện giá sản phẩm chỉ có 5$ => phần chênh lệch $10-5 = 5$$ được gọi là thặng dư tiêu dùng. Khi các hãng phân biệt giá và áp dụng mức giá cho người dùng tại ngưỡng chấp nhận chi trả, thì thặng dư tiêu dùng =0. Điều này được cho là làm thiệt hại cho người tiêu dùng.
+Giả sử bạn kỳ vọng một sản phẩm có giá 10\$, tuy nhiên khi mua, bạn phát hiện giá sản phẩm chỉ có 5\$ => phần chênh lệch $10-5 = 5$ được gọi là thặng dư tiêu dùng. Khi các hãng phân biệt giá và áp dụng mức giá cho người dùng tại ngưỡng chấp nhận chi trả, thì thặng dư tiêu dùng =0. Điều này được cho là làm thiệt hại cho người tiêu dùng.
 
 *Vấn đề pháp lý* <br>
 Nhằm hạn chế ảnh hưởng của các chính sách phân biệt giá đến người tiêu dùng, EU và Mỹ đều có những điều khoản hạn chế các chính sách phân biệt giá của các hãng (xem thêm [3], [5] ).
