@@ -9,7 +9,7 @@ tags:
 ---
 
 ![Facebook research on EEG and speed](/images/post/2022_fb_research_eeg.jpeg){: width="500" }<br>
-At the end of August, Facebook/Meta's AI team published a preprint of their research on brain electrical signals (electroencephalogram-EEG).
+At the end of this August, Facebook/Meta's AI team published a preprint of their research on brain electrical signals (electroencephalogram-EEG).
 
 Speech is a complex activity of intelligence, so studies of how speech is processed in the brain often has to be worked with invasive EEG signals. Skull surgery is needed to place electrodes directly into the brain. This method is somewhat horrible and cannot be widely spread. However, non-invasive EEG signals, measured in the scalp, are often very noisy and weak, and there are differences between individuals, even between sessions of the same person. <br>
 
