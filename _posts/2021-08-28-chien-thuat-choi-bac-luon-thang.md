@@ -1,11 +1,12 @@
 ---
-title: 'Chiến thuật chơi bạc luôn thắng?'
+title: '[Vi] Chiến thuật chơi bạc luôn thắng?'
 date: 2021-08-28
-permalink: /posts/2021/08/chien-thuat-choi-bac-luon-thang/
+permalink: /posts/vi/2021/08/chien-thuat-choi-bac-luon-thang/
 tags:
   - probability
   - gambling
   - game theory
+  - Vietnamese
 ---
 ![Poster](/images/post/2021_poster_gbml.png){: width="50%" }<br>
 Các trò chơi cá cược từ lâu cuốn hút một lượng lớn người chơi tham gia, nhưng thường kết thúc không có hậu cho con bạc. Xác suất là bộ môn toán học nghiên cứu quy luật, hình mẫu cho các hiện tượng ngẫu nhiên. Liệu có thể dùng xác suất để đòi lại công bằng cho các con bạc hay không?  Bài viết này thảo luận một chiến thuật với trò chơi đề.
