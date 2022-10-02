@@ -11,7 +11,7 @@ tags:
 
 ![Poster](/images/post/eeg_and_dl.jpeg){: width="800" }<br>
 Deep learning (DL), the science based on the idea of how the brain works. 
-Since Hinton claimed that he understood how the brain works and invented deep learning, the related sciences have changed their approaches dramatically. In 2012, the AlexNet, developed by Hinton's students, achieved SOTA results in image processing. Since then, traditional image feature extraction methods have gradually been forgotten. Nowaday, when someone talks about image processing, people immediately think of large-scale deep learning networks with stacked CNN layers.
+Since Hinton claimed that he understood how the brain works and invented deep learning, the related sciences have changed their approaches dramatically. In 2012, the AlexNet, developed by Hinton's students, achieved SOTA results in image processing. Since then, traditional image feature extraction methods have gradually been forgotten. Nowadays, when someone talks about image processing, people immediately think of large-scale deep learning networks with stacked CNN layers.
 
 Until 2016, Deep learning had a strong development, conquering many fields and becoming famous thanks to the event that AlphaGo beat humans in the game of Go. Ironically, it is still an unfamiliar term in its origin, neuroscience. Brain-computer interfaces (BCI) is a promising area of ​​neuroscience and is also the name of a very comprehensive book series on brain signal processing. Two sets of BCI books, volume 1 and volume 2, were released by WILEY in 2016, with 4 chapters on brain signal processing, 1 chapter on machine learning applications. But, they have no word about DL.
 
