@@ -47,17 +47,15 @@ $P(X=n) = p(1-p)^{n-1}$
 Hàm phân phối tích lũy $F$ tại ngày thứ $n$ xác định bởi: <br>
 $$F(n) = \sum P(X \leq n) = \sum_{i=1}^nP(X=i) = 1 - (1-p)^n$$
 
-Đồ thị có dạng: <br>
+Đồ thị CDF và PDF có dạng: <br>
 ![CDF and PDF](/images/post/gmbl_cdf.png)
 
 <!-- <img src="/_posts/img/gmbl_cdf.png" width="200" height="200" /> -->
 
 
 Ý nghĩa của giá trị $F(n)$ là xác suất mà bạn sẽ trúng tại số ngày nhỏ hơn n. <br>
-Ta mong muốn một giá trị tương đối chắc chắn đến $90%$ và muốn biết số ngày cần sẽ cược là bao nhiêu để có thể trúng. Để tìm $n$, ta có $F(n) = 0.9 \Leftrightarrow n ~ 229.$ <br>
-Như vậy, nếu mỗi ngày đều cược 1 số đề ngẫu nhiên, thì đến 90% trong vòng không quá 229 ngày bạn có ít nhất 1 ngày trúng cược.
-No alt text provided for this image
-Điều này nghĩa là bạn phải chuẩn bị một lượng tiền vốn đủ lớn để trong trường hợp xấu nhất ngày 229 mới trúng. Khi đó vốn bạn cần chuẩn bị là:
+Ta mong muốn một giá trị tương đối chắc chắn đến 90% và muốn biết số ngày cần sẽ cược là bao nhiêu để có thể trúng. Để tìm $n$, ta có $F(n) = 0.9 \Leftrightarrow n ~ 229.$ <br>
+Như vậy, nếu mỗi ngày đều cược 1 số đề ngẫu nhiên, thì đến 90% trong vòng không quá 229 ngày bạn có ít nhất 1 ngày trúng cược. Điều này nghĩa là bạn phải chuẩn bị một lượng tiền vốn đủ lớn để trong trường hợp xấu nhất ngày 229 mới trúng. Khi đó vốn bạn cần chuẩn bị là:
 
 $$I = L(229) = \sum_{i=1}^{229} C^{229}_i 69^{-i}e \approx 25.987e$$
 
