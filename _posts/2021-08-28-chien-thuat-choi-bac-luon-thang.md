@@ -30,8 +30,8 @@ Giả sử bạn đặt mục tiêu chiến thắng $e=100$ đồng.
 * Trong ngày thứ 2, bạn phải cược $M = L/69 + e/69 = e(69^{-1} +69^{-2})$ để nếu trúng, sau khi bù phần lỗ lũy kế bạn vẫn đạt được mục tiêu chiến thắng e đồng <br>
 …
 * Trong ngày thứ $n$, bạn phải cược $M$ và giá trị lỗ lũy kế $L$ (sau khi trượt) lần lượt là: <br>
-$$ M = \frac{L}{69} +\frac{e}{69} = \sum_{i=0}^{n-1} C_i^{n-1}69^{-i}e$$
-$$L = \sum_i^n C_i^n 69^{-i}e$$
+$ M = \frac{L}{69} +\frac{e}{69} = \sum_{i=0}^{n-1} C_i^{n-1}69^{-i}e$ <br>
+$L = \sum_i^n C_i^n 69^{-i}e$
 
 Đồ thị của hàm lỗ lũy kế sau $n$ ngày liên tiếp trượt là: <br>
 ![Cumulative loss](/images/post/bio-photo-2.png)
