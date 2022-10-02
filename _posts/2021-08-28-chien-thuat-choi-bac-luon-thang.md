@@ -54,7 +54,7 @@ $$F(n) = \sum P(X \leq n) = \sum_{i=1}^nP(X=i) = 1 - (1-p)^n$$
 
 
 Ý nghĩa của giá trị $F(n)$ là xác suất mà bạn sẽ trúng tại số ngày nhỏ hơn n. <br>
-Ta mong muốn một giá trị tương đối chắc chắn đến 90% và muốn biết số ngày cần sẽ cược là bao nhiêu để có thể trúng. Để tìm $n$, ta có $F(n) = 0.9 \Leftrightarrow n ~ 229.$ <br>
+Ta mong muốn một giá trị tương đối chắc chắn đến 90% và muốn biết số ngày cần sẽ cược là bao nhiêu để có thể trúng. Để tìm $n$, ta có $F(n) = 0.9 \Leftrightarrow n \sim 229.$ <br>
 Như vậy, nếu mỗi ngày đều cược 1 số đề ngẫu nhiên, thì đến 90% trong vòng không quá 229 ngày bạn có ít nhất 1 ngày trúng cược. Điều này nghĩa là bạn phải chuẩn bị một lượng tiền vốn đủ lớn để trong trường hợp xấu nhất ngày 229 mới trúng. Khi đó vốn bạn cần chuẩn bị là: <br>
 
 $I = L(229) = \sum_{i=1}^{229} C^{229}_i 69^{-i}e \approx 25.987e$
