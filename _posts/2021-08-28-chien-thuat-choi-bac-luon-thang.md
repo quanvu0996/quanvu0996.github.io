@@ -45,7 +45,7 @@ $L = \sum_i^n C_i^n 69^{-i}e$
 $P(X=n) = p(1-p)^{n-1}$
 
 Hàm phân phối tích lũy $F$ tại ngày thứ $n$ xác định bởi: <br>
-$$F(n) = \sum P(X \leq n) = \sum_{i=1}^nP(X=i) = 1 - (1-p)^n$$
+$F(n) = \sum P(X \leq n) = \sum_{i=1}^nP(X=i) = 1 - (1-p)^n$
 
 Đồ thị CDF và PDF có dạng: <br>
 ![CDF and PDF](/images/post/gmbl_cdf.png)
