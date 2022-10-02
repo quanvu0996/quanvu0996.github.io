@@ -9,7 +9,7 @@ tags:
   - English
 ---
 
-![Poster](/images/post/dl_and_eeg.jpeg){: width="800" }<br>
+![Poster](/images/post/eeg_and_dl.jpeg){: width="800" }<br>
 Deep learning (DL), the science based on the idea of how the brain works. 
 Since Hinton claimed that he understood how the brain works and invented deep learning, the related sciences have changed their approaches dramatically. In 2012, the AlexNet, developed by Hinton's students, achieved SOTA results in image processing. Since then, traditional image feature extraction methods have gradually been forgotten. Nowaday, when someone talks about image processing, people immediately think of large-scale deep learning networks with stacked CNN layers.
 
