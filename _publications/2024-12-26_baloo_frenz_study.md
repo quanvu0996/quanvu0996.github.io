@@ -6,7 +6,7 @@ excerpt: "Purpose: This study explores non-pharmacological interventions aimed a
 date: "2024-12-26"
 venue: "psyarxiv"
 paperurl: "10.31234/osf.io/a9bmw"
-citation: 'Quan, Vu H., and Kimi Doan. 2024. “Effects of Baloo Living Weighted Blanket and Frenz Brainband Auditory Therapy on Sleep Quality, Recovery and Readiness: A Randomized Controlled Study.” PsyArXiv. December 25. doi:10.31234/osf.io/a9bmw.'
+citation: "Quan, Vu H., and Kimi Doan. 2024. Effects of Baloo Living Weighted Blanket and Frenz Brainband Auditory Therapy on Sleep Quality, Recovery and Readiness: A Randomized Controlled Study. PsyArXiv. December 25. doi:10.31234/osf.io/a9bmw."
 ---
 
 **Purpose**: This study explores non-pharmacological interventions aimed at improving sleep quality and reducing anxiety, focusing on the use of Baloo weighted blankets, both alone and in combination with Frenz auditory cognitive behavioral therapy (CBT-i), as alternatives to medication for sleep disorders such as insomnia, poor sleep recovery, and anxiety-related disturbances. <br>
