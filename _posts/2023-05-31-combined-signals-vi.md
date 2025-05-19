@@ -1,6 +1,6 @@
 ---
 title: '[Vi] Tập 2: Tín hiệu chồng chập '
-date: 20230-05-31
+date: 2023-05-31
 permalink: /posts/vi/2023/05/combined_signals/
 tags:
   - EEG
