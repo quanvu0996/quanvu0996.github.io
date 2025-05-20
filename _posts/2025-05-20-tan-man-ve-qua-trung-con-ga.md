@@ -7,8 +7,6 @@ tags:
   - Vietnamese
 ---
 ![Poster](/images/post/2025/tan_man/qua_trung_con_ga.jpg){: width="400" }<br>
-
-
 Câu truyện về quả trứng và con gà gây tranh cãi rất nhiều. Tất nhiên khi nói đến đề tài này, người ta thể hiện ý nghĩa ẩn dụ là chính. Nhưng về mặt khoa học thì sao? Tản mạn một chút về đè tài này. <br>
 
 1. Nhiều người nói rằng nó là câu hỏi không có đáp án. Nhưng theo tôi thì phải có. Gà là hậu duệ của khủng long. Cách đây hàng trăm triệu năm không có con gà, ngày nay có con gà. Vậy, phải có một con gà hoặc một quả trứng gà tồn tại trước. Câu hỏi "con gà hay quá trứng có trước" phải có một đáp án.

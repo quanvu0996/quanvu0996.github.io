@@ -9,7 +9,6 @@ tags:
 ---
 
 ![Poster](/images/post/2023_EEG_signals.jpeg){: width="800" }<br>
-
 **Tín hiệu chồng chập** <br>
 Đặt một chiếc micro trong phòng, bạn bắt đầu hát và hy vọng chiếc micro sẽ thu được chất giọng trong trẻo của mình. Thực tế không dễ dàng như vậy. Khi nghe lại đoạn âm thanh, bạn có thể sẽ nghe thấy tiếng ồn của xe cộ xung quanh, tiếng quạt, tiếng bước đi,...bên cạnh giọng hát của mình. Tín hiệu EEG cũng vậy, đặc biệt với non-invasive EEG. Với các điện cực nhạy và bộ khuếch đại, các tín hiệu dù nhỏ của nhiều nguồn khác nhau sẽ đều được ghi lại. Tín hiệu thu được thường là chồng chập của: tín hiệu EEG từ nhiều vùng khác nhau của não bộ (chứ không chỉ vùng não gần với điện cực nhất), tín hiệu của mắt (eye movement artifact), tín hiệu cơ (muscle/myogenic artifact), điện tim (ECG), nhiễu,...
 Các mục dưới đây mô tả một số thành phần quan trọng.
