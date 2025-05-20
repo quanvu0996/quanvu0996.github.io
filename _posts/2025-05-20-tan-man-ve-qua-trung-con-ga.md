@@ -6,8 +6,11 @@ tags:
   - Tan man
   - Vietnamese
 ---
+![Poster](/images/post/2025/tan_man/qua_trung_con_ga.jpg){: width="400" }<br>
 
-Câu truyện về quả trứng và con gà gây tranh cãi rất nhiều. Tản mạn một chút về đè tài này. <br>
+
+Câu truyện về quả trứng và con gà gây tranh cãi rất nhiều. Tất nhiên khi nói đến đề tài này, người ta thể hiện ý nghĩa ẩn dụ là chính. Nhưng về mặt khoa học thì sao? Tản mạn một chút về đè tài này. <br>
+
 1. Nhiều người nói rằng nó là câu hỏi không có đáp án. Nhưng theo tôi thì phải có. Gà là hậu duệ của khủng long. Cách đây hàng trăm triệu năm không có con gà, ngày nay có con gà. Vậy, phải có một con gà hoặc một quả trứng gà tồn tại trước. Câu hỏi "con gà hay quá trứng có trước" phải có một đáp án.
 2. Thế nào được gọi là gà? Con gà là một loài động vật, nó phải có các đặc điểm đặc trưng như lông vũ, cổ dài, hai chân, không bay xa được,...
 3. Cái gì quyết định các tính chất, đặc điểm ở ý 2? Đó là gen. Hai quả trứng có chung gen sẽ nở ra hai con gà có chung đặc điểm, ngoại hình. Không thể nở ra một con gà và một con vịt. Cũng như hai người sinh đôi cùng trứng sẽ có gương mặt giống nhau.
