@@ -58,7 +58,7 @@ $\nabla f(x) = \begin{bmatrix} 4x_1 +3x_2 \\ 3x_1+10x_2 \end{bmatrix}$
 
 Ma trận Hessian:
 
-$\nabla^2 f(x) = \begin{bmatrix} 4 & 3 \\ 3 & 10 \end{bmatrix}$
+$$\nabla^2 f(x) = \begin{bmatrix} 4 & 3 \\ 3 & 10 \end{bmatrix}$$
 
 ## Đạo hàm trên ngôn ngữ ma trận
 Giờ hãy xét các hàm trên ngôn ngữ ma trận:
