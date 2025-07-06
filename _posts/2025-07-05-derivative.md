@@ -67,11 +67,11 @@ Với $x \in \mathbb{R}^n, c \in \mathbb{R}^n, A \in \mathbb{R}^{m \times n}$
 
 (1) $f(x) = c \Rightarrow \nabla f(x) =0 ; \nabla^2 f(x) = 0 $ 
 
-(2) $f(x) = cx \Rightarrow \nabla f(x) = c; \nabla^2 f(x) = 0 $ 
+(2) $f(x) = c^Tx \Rightarrow \nabla f(x) = c; \nabla^2 f(x) = 0 $ 
 
-(3) $f(x) = Ax \Rightarrow \nabla f(x) = A; \nabla^2 f(x) = 0 $ 
+(3) $f(x) = Ax \Rightarrow \nabla f(x) = A; \nabla^2 f(x) = 0$
 
-(4) $f(x) = x^TAx \Rightarrow \nabla f(x) = (A+A^T)x; \nabla^2 f(x) = A+A^T $ 
+(4) $f(x) = x^TAx \Rightarrow \nabla f(x) = (A+A^T)x; \nabla^2 f(x) = A+A^T , \forall m=n $ (ma trận A vuông)  
 
 ** Chứng minh (4): <br>
 Ta có:
