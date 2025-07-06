@@ -30,7 +30,7 @@ Ví dụ. xét hàm số $y = f(x_1, x_2) = \begin{bmatrix} 5 & 4 \end{bmatrix} 
 $\frac{\partial f(x)}{\partial x_1} = 5$;
 $\frac{\partial f(x)}{\partial x_2} = 4$ <br>
 <br>
-$\Rightarrow \nabla f(x) = \begin{bmatrix} 5 \\ 4 \end{bmatrix}$
+$$\Rightarrow \nabla f(x) = \begin{bmatrix} 5 \\ 4 \end{bmatrix}$$
 
 Điều này có nghĩa là: tại một điểm $(x_{01}, x_{02})$, nếu ta giữ nguyên $x_2$ và dịch $x_1$ đi một đoạn nhỏ $\Delta x_{1}$, thì giá trị hàm $f(x)$ sẽ biến động tăng thêm 1 lượng gấp $5$ lần $\Delta x_{1}$. Và nếu giữ nguyên $x_1$, dịch $x_2$ đi một đoạn nhỏ $\Delta x_2$ thì giá trị hàm $f(x)$ sẽ tăng thêm một lượng gấp $4$ lần $\Delta x_2$.
 
